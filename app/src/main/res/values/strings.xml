@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">the chance</string>
+    <string name="reviews">(150 Reviews)  <b>4.5</b></string>
+    <string name="name_person">Ahmed hassan</string>
+    <string name="job">Engineer</string>
+    <string name="contury">UK</string>
+    <string name="days">5 Days ago</string>
+    <string name="russian">Russian</string>
+    <string name="time">3 hr</string>
+</resources>
